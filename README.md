@@ -1,9 +1,6 @@
 # ChaChingify - Smart Finance Tracker
 > Aplikasi web untuk mengelola keuangan pribadi dengan mudah dan efisien. Catat pemasukan, pengeluaran, dan pantau tujuan keuangan Anda dalam satu tempat.
 
-![ChaChingify Banner](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
-
 ---
 
 ## 📋 Daftar Isi
